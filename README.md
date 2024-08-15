@@ -72,7 +72,7 @@
 - Swap the positions of the minimum and maximum elements.
 
 **Output**
-- Print the resulting list after the swap.
+- Print the resulting list after the swap!
 
 **Example**
 - For input [3, 8, 1, 7, 5], the output should be [3, 1, 8, 7, 5].
